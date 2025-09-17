@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "shop",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6d17674a-b27a-4c89-8f56-7661ceeede9e",
+      "database_name": "shop"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
